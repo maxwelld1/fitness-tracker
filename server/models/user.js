@@ -31,4 +31,4 @@ const model = {
     }
 };
 
-mmodule.exports = model;
+module.exports = model;
